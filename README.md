@@ -41,103 +41,14 @@
   </tr>
 </table>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <table width="100%">
-        <tr>
-          <td width="52%" valign="top">
-            <p><sub>01</sub></p>
-            <h3><a href="https://github.com/Eren9523/PenguinQuant">PenguinQuant</a></h3>
-            <p><sub>AI Quant · Research</sub></p>
-            <p>AI-assisted quantitative research — backtesting, strategy exploration, and AI-native quant workflows.</p>
-            <p>
-              <code>Python</code>
-              <code>AI</code>
-              <code>Quant</code>
-              <code>Backtest</code>
-            </p>
-          </td>
-          <td width="48%" valign="middle" align="right">
-            <a href="https://github.com/Eren9523/PenguinQuant">
-              <img src="./assets/screenshots/project-01-shot.png" width="220" alt="PenguinQuant screenshot" />
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td width="50%" valign="top">
-      <table width="100%">
-        <tr>
-          <td width="52%" valign="top">
-            <p><sub>02</sub></p>
-            <h3><a href="https://github.com/Eren9523/miaomiaocat">MiaomiaoCat</a></h3>
-            <p><sub>Education · Writing</sub></p>
-            <p>AI-powered CET writing companion — practice essays, get feedback, and improve with guided prompts.</p>
-            <p>
-              <code>TypeScript</code>
-              <code>React</code>
-              <code>AI</code>
-              <code>Education</code>
-            </p>
-          </td>
-          <td width="48%" valign="middle" align="right">
-            <a href="https://github.com/Eren9523/miaomiaocat">
-              <img src="./assets/screenshots/project-02-shot.png" width="220" alt="MiaomiaoCat screenshot" />
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <table width="100%">
-        <tr>
-          <td width="52%" valign="top">
-            <p><sub>03</sub></p>
-            <h3><a href="https://github.com/Eren9523/finance-project">模型推荐助手</a></h3>
-            <p><sub>AI · Recommendation</sub></p>
-            <p>AI model recommendation workbench — compare models and pick the right one for the job.</p>
-            <p>
-              <code>Python</code>
-              <code>AI</code>
-              <code>Recommendation</code>
-              <code>Workbench</code>
-            </p>
-          </td>
-          <td width="48%" valign="middle" align="right">
-            <a href="https://github.com/Eren9523/finance-project">
-              <img src="./assets/screenshots/project-03-shot.png" width="220" alt="模型推荐助手 screenshot" />
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td width="50%" valign="top">
-      <table width="100%">
-        <tr>
-          <td width="52%" valign="top">
-            <p><sub>04</sub></p>
-            <h3><a href="https://github.com/Eren9523/my-introduce-of-web">企鹅站台</a></h3>
-            <p><sub>Web · Portfolio</sub></p>
-            <p>Personal site — a small station for ideas, projects, and the Penguin Workshop story.</p>
-            <p>
-              <code>Web</code>
-              <code>Frontend</code>
-              <code>Portfolio</code>
-            </p>
-          </td>
-          <td width="48%" valign="middle" align="right">
-            <a href="https://github.com/Eren9523/my-introduce-of-web">
-              <img src="./assets/screenshots/project-04-shot.png" width="220" alt="企鹅站台 screenshot" />
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<p align="center">
+<a href="https://github.com/Eren9523/PenguinQuant"><img src="./assets/projects/project-01.svg" width="49%" alt="01 PenguinQuant" /></a>
+<a href="https://github.com/Eren9523/miaomiaocat"><img src="./assets/projects/project-02.svg" width="49%" alt="02 MiaomiaoCat" /></a>
+</p>
+<p align="center">
+<a href="https://github.com/Eren9523/finance-project"><img src="./assets/projects/project-03.svg" width="49%" alt="03 模型推荐助手" /></a>
+<a href="https://github.com/Eren9523/my-introduce-of-web"><img src="./assets/projects/project-04.svg" width="49%" alt="04 企鹅站台" /></a>
+</p>
 
 <br/>
 
