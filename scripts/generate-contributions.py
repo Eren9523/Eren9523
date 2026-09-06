@@ -119,9 +119,11 @@ def render(cal: dict) -> str:
     cell = 11
     gap = 3
     left = 36
-    top = 48
+    # Leave room above the heatmap so the title and month labels do not collide.
+    # Title ~y=22, month labels ~y=50, heatmap starts at top.
+    top = 58
     width = left + len(weeks) * (cell + gap) + 16
-    height = top + 7 * (cell + gap) + 56
+    height = top + 7 * (cell + gap) + 70  # ~226–240 depending on weeks
 
     # month labels: first week that contains the 1st of a month (approx via firstDay)
     month_labels = []
@@ -156,7 +158,7 @@ def render(cal: dict) -> str:
     for wi, label in month_labels:
         x = left + wi * (cell + gap)
         months_svg.append(
-            f'<text x="{x}" y="{top - 12}" font-size="11" fill="#57606a" '
+            f'<text x="{x}" y="{top - 8}" font-size="11" fill="#57606a" '
             f'font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">{label}</text>'
         )
 
@@ -192,11 +194,11 @@ def render(cal: dict) -> str:
 <svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img"
   aria-label="GitHub contribution graph for {USERNAME}: {total} contributions in the last year">
   <rect width="100%" height="100%" rx="12" ry="12" fill="#ffffff"/>
-  <text x="16" y="28" font-size="16" font-weight="600" fill="#1f2328"
+  <text x="16" y="22" font-size="16" font-weight="600" fill="#1f2328"
     font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
     {total} contributions in the last year
   </text>
-  <text x="{width - 16}" y="28" font-size="11" fill="#8b949e" text-anchor="end"
+  <text x="{width - 16}" y="22" font-size="11" fill="#8b949e" text-anchor="end"
     font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">@{USERNAME} · updated {generated}</text>
   {''.join(months_svg)}
   {''.join(dow_svg)}

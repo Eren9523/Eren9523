@@ -103,47 +103,39 @@
 
 <table width="100%">
   <tr>
-    <td width="62%" valign="top">
+    <td width="66%" valign="top">
       <p><strong>BUILD PHILOSOPHY</strong></p>
-      <table>
+      <table width="100%">
         <tr>
-          <td width="25%" valign="top" align="center">
-            <p>👁</p>
-            <p><strong>01 Observe</strong></p>
+          <td width="50%" valign="top">
+            <p><strong>01 · Observe</strong></p>
             <p><sub>Look closer. Good ideas often start from real life.</sub></p>
           </td>
-          <td width="25%" valign="top" align="center">
-            <p>💡</p>
-            <p><strong>02 Prototype</strong></p>
+          <td width="50%" valign="top">
+            <p><strong>02 · Prototype</strong></p>
             <p><sub>Use AI to compress the distance between idea and implementation.</sub></p>
           </td>
-          <td width="25%" valign="top" align="center">
-            <p>🛩</p>
-            <p><strong>03 Ship</strong></p>
+        </tr>
+        <tr>
+          <td width="50%" valign="top">
+            <p><strong>03 · Ship</strong></p>
             <p><sub>Turn it into something people can actually use.</sub></p>
           </td>
-          <td width="25%" valign="top" align="center">
-            <p>🔄</p>
-            <p><strong>04 Iterate</strong></p>
+          <td width="50%" valign="top">
+            <p><strong>04 · Iterate</strong></p>
             <p><sub>See what breaks, what users want, and keep going.</sub></p>
           </td>
         </tr>
       </table>
     </td>
-    <td width="38%" valign="top">
+    <td width="4%"></td>
+    <td width="30%" valign="top">
       <p><strong>TECH STACK</strong></p>
-      <p>
-        <code>Python</code>&nbsp;
-        <code>TypeScript</code>&nbsp;
-        <code>React</code>&nbsp;
-        <code>Next.js</code><br/>
-        <code>Node.js</code>&nbsp;
-        <code>Vite</code>&nbsp;
-        <code>Tailwind</code><br/>
-        <code>Cloudflare</code>&nbsp;
-        <code>Gemini</code>&nbsp;
-        <code>DeepSeek</code>
-      </p>
+      <p><code>Python</code> <code>TypeScript</code></p>
+      <p><code>React</code> <code>Next.js</code></p>
+      <p><code>Node.js</code> <code>Vite</code></p>
+      <p><code>Tailwind</code> <code>Cloudflare</code></p>
+      <p><code>Gemini</code> <code>DeepSeek</code></p>
       <p><sub>From real usage across featured repos only.</sub></p>
     </td>
   </tr>
