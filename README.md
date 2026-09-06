@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="assets/hero/penguin-workshop-light.svg" width="1200" height="400" alt="Penguin Workshop — Qiu Peng (Eren9523), AI-native product builder. Slogan: small ideas, carefully built. Tags: Wuhan, Build, Learn, Iterate, AI-native." />
+  <img src="assets/hero/penguin-workshop-light.png" width="1200" height="400" alt="Penguin Workshop — Qiu Peng (Eren9523), AI-native product builder. Slogan: small ideas, carefully built. Tags: Wuhan, Build, Learn, Iterate, AI-native." />
 </div>
 
 <br/>
