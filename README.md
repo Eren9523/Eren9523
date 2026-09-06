@@ -1,14 +1,26 @@
 <!--
   GitHub Profile README — Eren9523 / Penguin Workshop
-  Real GFM + safe HTML only. Static SVG assets. No fake site chrome.
+  Real GFM + safe HTML: clickable text, not baked into PNGs.
 -->
 
 <div align="center">
-  <img src="assets/hero/penguin-workshop-light.png" width="1200" height="400" alt="Penguin Workshop — Qiu Peng (Eren9523), AI-native product builder. Slogan: small ideas, carefully built. Tags: Wuhan, Build, Learn, Iterate, AI-native." />
+  <img src="./assets/hero/penguin-workshop-light.png" width="100%" alt="Penguin Workshop landscape with penguin" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=Penguin+Workshop;small+ideas%2C+carefully+built." alt="Penguin Workshop typing" />
+  <h2>Penguin Workshop</h2>
+  <p><em>small ideas, carefully built.</em></p>
+  <p>Hi, I'm <strong>Qiu Peng</strong> (<a href="https://github.com/Eren9523">Eren9523</a>) — an AI-native product builder who loves turning ideas into real products.</p>
+  <p>I build at the intersection of AI, products, web, data and automation, and I'm always curious about what's next.</p>
+  <p>
+    <code>📍 Wuhan, China</code>
+    <code>♥ Build</code>
+    <code>▣ Learn</code>
+    <code>🚀 Iterate</code>
+    <code>∞ AI-native</code>
+  </p>
 </div>
 
 <br/>
-
 
 ---
 
@@ -26,25 +38,56 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/Eren9523/PenguinQuant">PenguinQuant</a></h3>
+      <p>AI-assisted quantitative research — backtesting, strategy exploration, and AI-native quant workflows.</p>
+      <p>
+        <code>Python</code>
+        <code>AI</code>
+        <code>Quant</code>
+        <code>Backtest</code>
+      </p>
       <a href="https://github.com/Eren9523/PenguinQuant">
-        <img src="assets/projects/project-01.svg" width="560" height="290" alt="01 PenguinQuant — AI-assisted quantitative research" />
+        <img src="./assets/screenshots/project-01-shot.png" width="100%" alt="PenguinQuant screenshot" />
       </a>
     </td>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/Eren9523/miaomiaocat">MiaomiaoCat</a></h3>
+      <p>AI-powered CET writing companion — practice essays, get feedback, and improve with guided prompts.</p>
+      <p>
+        <code>TypeScript</code>
+        <code>React</code>
+        <code>AI</code>
+        <code>Education</code>
+      </p>
       <a href="https://github.com/Eren9523/miaomiaocat">
-        <img src="assets/projects/project-02.svg" width="560" height="290" alt="02 MiaomiaoCat — AI-powered CET writing companion" />
+        <img src="./assets/screenshots/project-02-shot.png" width="100%" alt="MiaomiaoCat screenshot" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/Eren9523/finance-project">模型推荐助手</a></h3>
+      <p>AI model recommendation workbench — compare models and pick the right one for the job.</p>
+      <p>
+        <code>Python</code>
+        <code>AI</code>
+        <code>Recommendation</code>
+        <code>Workbench</code>
+      </p>
       <a href="https://github.com/Eren9523/finance-project">
-        <img src="assets/projects/project-03.svg" width="560" height="290" alt="03 模型推荐助手 — AI model recommendation workbench" />
+        <img src="./assets/screenshots/project-03-shot.png" width="100%" alt="模型推荐助手 screenshot" />
       </a>
     </td>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/Eren9523/my-introduce-of-web">企鹅站台</a></h3>
+      <p>Personal site — a small station for ideas, projects, and the Penguin Workshop story.</p>
+      <p>
+        <code>Web</code>
+        <code>Frontend</code>
+        <code>Portfolio</code>
+      </p>
       <a href="https://github.com/Eren9523/my-introduce-of-web">
-        <img src="assets/projects/project-04.svg" width="560" height="290" alt="04 企鹅站台 — personal site" />
+        <img src="./assets/screenshots/project-04-shot.png" width="100%" alt="企鹅站台 screenshot" />
       </a>
     </td>
   </tr>
@@ -105,7 +148,7 @@
 <p><strong>CONTRIBUTIONS</strong></p>
 
 <div align="center">
-  <img src="assets/contributions.svg" alt="Real GitHub contribution heatmap for Eren9523 (auto-updated daily)" />
+  <img src="./assets/contributions.svg" alt="Real GitHub contribution heatmap for Eren9523 (auto-updated daily)" />
 </div>
 
 <br/>
