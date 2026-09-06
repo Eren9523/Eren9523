@@ -5,9 +5,9 @@
 
 <table width="100%">
   <tr>
-    <td width="46%" valign="middle">
+    <td width="65%" valign="middle">
       <p><sub>SMALL IDEAS, CAREFULLY BUILT.</sub></p>
-      <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3500&pause=1200&color=3B82F6&center=false&vCenter=true&width=420&lines=Penguin+Workshop;small+ideas%2C+carefully+built." alt="Penguin Workshop typing" />
+      <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3500&pause=1200&color=3B82F6&center=false&vCenter=true&width=360&lines=Penguin+Workshop;small+ideas%2C+carefully+built." alt="Penguin Workshop typing" />
       <h2>Penguin <a href="https://github.com/Eren9523">Workshop</a></h2>
       <p><em>small ideas, carefully built.</em></p>
       <p>Hi, I'm <strong>Qiu Peng</strong> (<a href="https://github.com/Eren9523">Eren9523</a>) — an AI-native product builder who loves turning ideas into real products.</p>
@@ -20,7 +20,7 @@
         <code>∞ AI-native</code>
       </p>
     </td>
-    <td width="54%" valign="middle" align="center">
+    <td width="35%" valign="middle" align="center">
       <img src="./assets/hero/penguin-workshop-photo.png" width="100%" alt="Penguin Workshop — realistic penguin and mountains" />
     </td>
   </tr>
