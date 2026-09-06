@@ -101,45 +101,9 @@
 
 <br/>
 
-<table width="100%">
-  <tr>
-    <td width="66%" valign="top">
-      <p><strong>BUILD PHILOSOPHY</strong></p>
-      <table width="100%">
-        <tr>
-          <td width="50%" valign="top">
-            <p><strong>01 · Observe</strong></p>
-            <p><sub>Look closer. Good ideas often start from real life.</sub></p>
-          </td>
-          <td width="50%" valign="top">
-            <p><strong>02 · Prototype</strong></p>
-            <p><sub>Use AI to compress the distance between idea and implementation.</sub></p>
-          </td>
-        </tr>
-        <tr>
-          <td width="50%" valign="top">
-            <p><strong>03 · Ship</strong></p>
-            <p><sub>Turn it into something people can actually use.</sub></p>
-          </td>
-          <td width="50%" valign="top">
-            <p><strong>04 · Iterate</strong></p>
-            <p><sub>See what breaks, what users want, and keep going.</sub></p>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td width="4%"></td>
-    <td width="30%" valign="top">
-      <p><strong>TECH STACK</strong></p>
-      <p><code>Python</code> <code>TypeScript</code></p>
-      <p><code>React</code> <code>Next.js</code></p>
-      <p><code>Node.js</code> <code>Vite</code></p>
-      <p><code>Tailwind</code> <code>Cloudflare</code></p>
-      <p><code>Gemini</code> <code>DeepSeek</code></p>
-      <p><sub>From real usage across featured repos only.</sub></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/modules/build-and-stack.svg" width="100%" alt="Build philosophy: Observe, Prototype, Ship, Iterate. Tech stack: Python, TypeScript, React, Next.js, Node.js, Vite, Tailwind, Cloudflare, Gemini, DeepSeek." />
+</p>
 
 <br/>
 
