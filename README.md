@@ -10,7 +10,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3500&pause=1200&color=3B82F6&center=false&vCenter=true&width=420&lines=Penguin+Workshop;small+ideas%2C+carefully+built." alt="Penguin Workshop typing" />
       <h2>Penguin <a href="https://github.com/Eren9523">Workshop</a></h2>
       <p><em>small ideas, carefully built.</em></p>
-      <p>Hi, I'm <strong>Qiu Peng</strong> (<a href="https://github.com/Eren9523">Eren9523</a>) — an AI-native product builder who loves turning ideas into real products.</p>
+      <p>Hi, I'm <a href="https://github.com/Eren9523"><strong>Eren9523</strong></a> — an AI-native product builder who loves turning ideas into real products.</p>
       <p>I build at the intersection of AI, products, web, data and automation, and I'm always curious about what's next.</p>
       <p>
         <code>📍 Wuhan, China</code>
