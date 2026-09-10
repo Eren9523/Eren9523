@@ -21,7 +21,7 @@
       </p>
     </td>
     <td width="22%" valign="middle" align="center">
-      <img src="./assets/hero/penguin-workshop-photo.png" width="160" alt="Penguin Workshop — Gentoo penguins" />
+      <img src="./assets/hero/penguin-full-v2.png" width="160" alt="Penguin Workshop — Gentoo penguins" />
     </td>
   </tr>
 </table>
